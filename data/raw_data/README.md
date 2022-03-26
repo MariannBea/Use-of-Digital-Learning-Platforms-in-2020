@@ -1,3 +1,4 @@
+This Read Me is from the Learn Platform's Kaggle Competition. It explains the data they provided in more detail. Information about data that I located elsewhere can be found in the "Code Book" file.
 
 # Data Description
 

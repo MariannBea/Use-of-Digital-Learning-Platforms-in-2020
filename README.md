@@ -89,5 +89,7 @@ Blog Post: Is There A Correlation Between EdTech and Achievement?
 
 ##### Contact
 Mariann Beagrie
+
 mmbeagrie@gmail.com
+
 [Github](https://mariannbea.github.io/)

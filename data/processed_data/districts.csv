@@ -1,0 +1,177 @@
+district_id,state_districts,locale,black_hispanic_range,free_reduced_lunch_range,expend_student_range
+9007,arizona,city,0.8 - 1,,
+2074,california,suburb,0.4 - 0.6,0.2 - 0.4,
+5604,california,suburb,0 - 0.2,0 - 0.2,
+3412,california,city,0.6 - 0.8,0.4 - 0.6,
+2321,california,rural,0 - 0.2,0 - 0.2,
+2106,california,suburb,0.2 - 0.4,0 - 0.2,
+4550,california,city,0.8 - 1,0.6 - 0.8,
+1570,california,suburb,0.2 - 0.4,0.2 - 0.4,
+2172,california,city,0 - 0.2,0 - 0.2,
+3322,california,city,0 - 0.2,0 - 0.2,
+9357,california,city,0.4 - 0.6,0.2 - 0.4,
+7975,california,city,0.6 - 0.8,0.6 - 0.8,
+7164,california,city,0.6 - 0.8,0.6 - 0.8,
+1904,connecticut,rural,0 - 0.2,0 - 0.2,
+8539,connecticut,suburb,0.2 - 0.4,0.4 - 0.6,
+4602,connecticut,suburb,0.6 - 0.8,0.2 - 0.4,
+4520,connecticut,suburb,0 - 0.2,0.2 - 0.4,
+7785,connecticut,suburb,0 - 0.2,0 - 0.2,
+9589,connecticut,suburb,0.2 - 0.4,0.2 - 0.4,
+1142,connecticut,rural,0 - 0.2,0.2 - 0.4,
+1444,connecticut,suburb,0 - 0.2,0.4 - 0.6,
+4569,connecticut,city,0.6 - 0.8,0.4 - 0.6,
+6250,connecticut,suburb,0 - 0.2,0.2 - 0.4,
+1558,connecticut,suburb,0 - 0.2,0 - 0.2,
+9140,connecticut,suburb,0 - 0.2,0.2 - 0.4,
+4031,connecticut,suburb,0.2 - 0.4,0.4 - 0.6,
+6194,connecticut,suburb,0 - 0.2,0 - 0.2,
+1000,connecticut,suburb,0.6 - 0.8,0.2 - 0.4,
+4516,connecticut,suburb,0.4 - 0.6,0.4 - 0.6,
+5802,connecticut,suburb,0 - 0.2,0.4 - 0.6,
+2729,connecticut,rural,0 - 0.2,0 - 0.2,
+1450,connecticut,suburb,0 - 0.2,0 - 0.2,
+6055,connecticut,rural,0 - 0.2,0 - 0.2,
+6998,connecticut,rural,0 - 0.2,0 - 0.2,
+4083,connecticut,rural,0 - 0.2,0.2 - 0.4,
+3936,connecticut,suburb,0 - 0.2,0.2 - 0.4,
+8076,connecticut,suburb,0 - 0.2,0.2 - 0.4,
+8127,connecticut,suburb,0.2 - 0.4,0.2 - 0.4,
+3640,connecticut,suburb,0 - 0.2,0 - 0.2,
+3314,connecticut,rural,0 - 0.2,0 - 0.2,
+6046,connecticut,rural,0 - 0.2,0 - 0.2,
+5934,connecticut,rural,0 - 0.2,0 - 0.2,
+2201,connecticut,city,0.4 - 0.6,0.4 - 0.6,
+7964,district of columbia,city,0.8 - 1,,18000 - 20000
+6418,district of columbia,city,0.4 - 0.6,,18000 - 20000
+5479,district of columbia,city,0.8 - 1,,18000 - 20000
+6919,florida,suburb,0.4 - 0.6,0.4 - 0.6,6000 - 8000
+8815,illinois,suburb,0 - 0.2,0 - 0.2,14000 - 16000
+1877,illinois,rural,0 - 0.2,0 - 0.2,12000 - 14000
+2779,illinois,rural,0 - 0.2,0 - 0.2,10000 - 12000
+9043,illinois,suburb,0.8 - 1,0.8 - 1,12000 - 14000
+6577,illinois,suburb,0 - 0.2,0 - 0.2,10000 - 12000
+8784,illinois,suburb,0.6 - 0.8,0.6 - 0.8,10000 - 12000
+2601,illinois,suburb,0.6 - 0.8,0.4 - 0.6,12000 - 14000
+9899,illinois,suburb,0.2 - 0.4,0 - 0.2,12000 - 14000
+4629,illinois,suburb,0 - 0.2,0.2 - 0.4,16000 - 18000
+1712,illinois,suburb,0.4 - 0.6,0.4 - 0.6,12000 - 14000
+5042,illinois,town,0.2 - 0.4,0.8 - 1,10000 - 12000
+5890,illinois,suburb,0.2 - 0.4,0.2 - 0.4,18000 - 20000
+9553,illinois,suburb,0 - 0.2,0 - 0.2,14000 - 16000
+8937,illinois,rural,0 - 0.2,0 - 0.2,12000 - 14000
+2393,illinois,suburb,0 - 0.2,0 - 0.2,12000 - 14000
+3248,illinois,suburb,0.6 - 0.8,0.6 - 0.8,12000 - 14000
+1052,illinois,suburb,0.2 - 0.4,0.2 - 0.4,16000 - 18000
+2285,illinois,suburb,0 - 0.2,0.4 - 0.6,12000 - 14000
+4808,indiana,city,0.8 - 1,0.8 - 1,8000 - 10000
+3222,indiana,city,0.2 - 0.4,0.6 - 0.8,8000 - 10000
+1536,indiana,rural,0 - 0.2,0.4 - 0.6,8000 - 10000
+1324,indiana,rural,0 - 0.2,0.4 - 0.6,8000 - 10000
+5627,indiana,rural,0 - 0.2,0.4 - 0.6,8000 - 10000
+2870,indiana,suburb,0.8 - 1,0.6 - 0.8,8000 - 10000
+3228,indiana,town,0 - 0.2,0.4 - 0.6,8000 - 10000
+5527,massachusetts,suburb,0 - 0.2,,16000 - 18000
+7305,massachusetts,suburb,0 - 0.2,,14000 - 16000
+3668,massachusetts,suburb,0 - 0.2,,16000 - 18000
+4949,massachusetts,suburb,0 - 0.2,,16000 - 18000
+5006,massachusetts,suburb,0 - 0.2,,14000 - 16000
+2439,massachusetts,suburb,0 - 0.2,,16000 - 18000
+5524,massachusetts,rural,0 - 0.2,,16000 - 18000
+8556,massachusetts,suburb,0 - 0.2,,16000 - 18000
+3986,massachusetts,rural,0 - 0.2,,16000 - 18000
+3080,massachusetts,suburb,0.2 - 0.4,,16000 - 18000
+2517,massachusetts,suburb,0 - 0.2,,18000 - 20000
+7675,massachusetts,suburb,0 - 0.2,,20000 - 22000
+6345,massachusetts,suburb,0.2 - 0.4,,12000 - 14000
+8748,massachusetts,city,0 - 0.2,,18000 - 20000
+7342,massachusetts,suburb,0 - 0.2,,14000 - 16000
+7723,massachusetts,suburb,0.4 - 0.6,,14000 - 16000
+9927,massachusetts,suburb,0 - 0.2,,16000 - 18000
+6512,massachusetts,suburb,0 - 0.2,,14000 - 16000
+9303,massachusetts,suburb,0 - 0.2,,14000 - 16000
+1965,massachusetts,suburb,0 - 0.2,,22000 - 24000
+5882,massachusetts,suburb,0 - 0.2,,14000 - 16000
+6144,michigan,suburb,0.4 - 0.6,0.6 - 0.8,10000 - 12000
+3732,michigan,suburb,0.4 - 0.6,0.4 - 0.6,12000 - 14000
+3550,minnesota,suburb,0.4 - 0.6,0.6 - 0.8,14000 - 16000
+1044,missouri,suburb,0 - 0.2,0 - 0.2,10000 - 12000
+4051,missouri,suburb,0 - 0.2,0.2 - 0.4,10000 - 12000
+1742,missouri,suburb,0 - 0.2,0.2 - 0.4,8000 - 10000
+2956,missouri,city,0 - 0.2,0.4 - 0.6,8000 - 10000
+4348,missouri,suburb,0 - 0.2,0.2 - 0.4,8000 - 10000
+5422,missouri,town,0 - 0.2,0.2 - 0.4,8000 - 10000
+1857,new hampshire,rural,0 - 0.2,0.2 - 0.4,
+4314,new hampshire,rural,0 - 0.2,0.2 - 0.4,
+8433,new jersey,suburb,0 - 0.2,0 - 0.2,18000 - 20000
+8256,new jersey,suburb,0 - 0.2,0 - 0.2,14000 - 16000
+2257,new york,rural,0 - 0.2,0.2 - 0.4,20000 - 22000
+7798,new york,rural,0 - 0.2,0.2 - 0.4,22000 - 24000
+2940,new york,suburb,0 - 0.2,0.2 - 0.4,14000 - 16000
+8520,new york,rural,0 - 0.2,0.2 - 0.4,16000 - 18000
+4775,new york,suburb,0 - 0.2,0.2 - 0.4,16000 - 18000
+1470,new york,rural,0 - 0.2,0.4 - 0.6,32000 - 34000
+9536,new york,city,0.8 - 1,0.8 - 1,
+9515,new york,rural,0 - 0.2,0.4 - 0.6,18000 - 20000
+7177,north carolina,suburb,0.2 - 0.4,0.2 - 0.4,8000 - 10000
+6584,north carolina,rural,0.4 - 0.6,0.6 - 0.8,8000 - 10000
+7767,north carolina,city,0.4 - 0.6,0.6 - 0.8,10000 - 12000
+3558,north carolina,suburb,0.2 - 0.4,0.2 - 0.4,8000 - 10000
+2872,north dakota,rural,0 - 0.2,0 - 0.2,
+7970,ohio,suburb,0 - 0.2,0 - 0.2,
+8425,ohio,suburb,0 - 0.2,0 - 0.2,
+2598,ohio,suburb,0 - 0.2,0 - 0.2,
+2991,ohio,suburb,0 - 0.2,0 - 0.2,
+2060,ohio,city,0.4 - 0.6,,
+5150,ohio,suburb,0 - 0.2,0.2 - 0.4,
+9537,ohio,suburb,0 - 0.2,0 - 0.2,
+3670,ohio,rural,0 - 0.2,0.4 - 0.6,
+7741,ohio,suburb,0 - 0.2,0 - 0.2,
+9478,ohio,town,0 - 0.2,0 - 0.2,
+6104,ohio,suburb,0.2 - 0.4,0.2 - 0.4,
+6640,tennessee,suburb,0 - 0.2,,8000 - 10000
+8103,tennessee,rural,0.2 - 0.4,,8000 - 10000
+8884,texas,city,0.6 - 0.8,0.4 - 0.6,8000 - 10000
+4683,texas,suburb,0.4 - 0.6,0.4 - 0.6,8000 - 10000
+4921,utah,suburb,0 - 0.2,0.2 - 0.4,6000 - 8000
+3710,utah,suburb,0 - 0.2,0.4 - 0.6,6000 - 8000
+9812,utah,suburb,0 - 0.2,0.2 - 0.4,6000 - 8000
+7614,utah,city,0.2 - 0.4,0.2 - 0.4,8000 - 10000
+8328,utah,town,0 - 0.2,0.4 - 0.6,10000 - 12000
+4936,utah,suburb,0 - 0.2,0 - 0.2,6000 - 8000
+5231,utah,town,0 - 0.2,0.4 - 0.6,10000 - 12000
+2165,utah,suburb,0.2 - 0.4,0.2 - 0.4,6000 - 8000
+7660,utah,suburb,0 - 0.2,0 - 0.2,6000 - 8000
+1772,utah,city,0.2 - 0.4,0.4 - 0.6,8000 - 10000
+3692,utah,suburb,0 - 0.2,0.4 - 0.6,8000 - 10000
+7308,utah,suburb,0 - 0.2,0.2 - 0.4,4000 - 6000
+3864,utah,suburb,0 - 0.2,0 - 0.2,6000 - 8000
+5600,utah,suburb,0 - 0.2,0.2 - 0.4,6000 - 8000
+7387,utah,city,0 - 0.2,0.2 - 0.4,6000 - 8000
+3772,utah,suburb,0 - 0.2,0.2 - 0.4,8000 - 10000
+9778,utah,town,0 - 0.2,0.4 - 0.6,8000 - 10000
+3160,utah,suburb,0 - 0.2,0.2 - 0.4,8000 - 10000
+9230,utah,rural,0 - 0.2,0 - 0.2,6000 - 8000
+6762,utah,suburb,0 - 0.2,0 - 0.2,4000 - 6000
+1204,utah,suburb,0 - 0.2,0 - 0.2,6000 - 8000
+4668,utah,suburb,0 - 0.2,0.2 - 0.4,6000 - 8000
+4744,utah,suburb,0.2 - 0.4,0.2 - 0.4,8000 - 10000
+7541,utah,suburb,0.2 - 0.4,0.2 - 0.4,8000 - 10000
+1270,utah,rural,0 - 0.2,0.4 - 0.6,8000 - 10000
+4183,utah,town,0 - 0.2,0.4 - 0.6,8000 - 10000
+4373,utah,city,0 - 0.2,0 - 0.2,8000 - 10000
+2441,utah,town,0 - 0.2,0.2 - 0.4,8000 - 10000
+3266,utah,town,0 - 0.2,0.4 - 0.6,10000 - 12000
+1549,virginia,suburb,0 - 0.2,0.2 - 0.4,10000 - 12000
+7980,virginia,rural,0 - 0.2,0.4 - 0.6,10000 - 12000
+1791,virginia,city,0.6 - 0.8,0.6 - 0.8,10000 - 12000
+4929,virginia,rural,0 - 0.2,0.4 - 0.6,12000 - 14000
+7457,washington,city,0.4 - 0.6,0.4 - 0.6,12000 - 14000
+2167,washington,suburb,0 - 0.2,0 - 0.2,14000 - 16000
+2567,washington,suburb,0 - 0.2,0.2 - 0.4,12000 - 14000
+2130,washington,suburb,0.4 - 0.6,0.6 - 0.8,14000 - 16000
+5510,washington,city,0.2 - 0.4,0.4 - 0.6,14000 - 16000
+1705,washington,city,0.2 - 0.4,0.4 - 0.6,12000 - 14000
+5987,wisconsin,suburb,0 - 0.2,0 - 0.2,10000 - 12000
+8902,wisconsin,suburb,0 - 0.2,0.2 - 0.4,10000 - 12000
+7752,wisconsin,suburb,0 - 0.2,0 - 0.2,10000 - 12000

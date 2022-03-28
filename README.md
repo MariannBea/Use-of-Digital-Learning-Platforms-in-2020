@@ -9,19 +9,33 @@ After looking at the data provided and finding other data that was applicable, I
 
 * Do states with higher student achievement on the 2019 NAEP reading and math assessments have more online engagement in 2020?
 
-* Is there a correlation between the content of a states's technology plan/curriculum and online engagement?
+* Is there a correlation between a states' technology plan/curriculum content and online engagement?
 
-* Are any features of district technology development plans correlated with achievement on the 2019 NAEP at grades 4, 8?
+* Which products are used most in states with higher achievement rates on the 2019 NAEP reading and math assessments?
+
+* Are any district technology development plan features correlated with achievement on the 2019 NAEP at grades 4, 8?
 
 * Are any features of a school's culture correlated with more or less use of Edtech platforms?
-
-* Which products are used most in states that have higher achievement rates on the 2019 NAEP reading and math assessments?
 
 * Which programs had the most engagement in each state?
 
 * Is there an increase or a decrease in online product activity during online learning?
 
-* What is the correlation between each of the demographic factors and engagement with online platforms?
+* What is the correlation between each demographic factor and engagement with online platforms?
+
+Follow-up for later:  Are high levels of engagement with any particular programs correlated with high levels of achievement on the 2021 NAEP reading and maths assessments?  
+
+##### This project is currently a work in progress. The questions still to be investigated are:
+
+* Are any features of a school's culture correlated with more or less use of Edtech platforms?
+
+* Which programs had the most engagement in each state?
+
+* Is there an increase or a decrease in online product activity during online learning?
+
+* What is the correlation between each demographic factor and engagement with online platforms?
+
+The last three questions will be explored by looking at each state individually and then comparing the results. The 'california' notebook is an example of how this analysis will be done.
 
 ##### Methods Used
 
@@ -62,7 +76,7 @@ You can access the data yourself by following the links below:
 The school technology plans that were analyzed can be found in [this](https://github.com/MariannBea/Use-of-Digital-Learning-Platforms-in-2020/tree/main/data/raw_data/research/state_tech_plans) folder. I did not save the links of where they were found.
 
 __Notebooks__ are being stored here: [here](https://github.com/MariannBea/Use-of-Digital-Learning-Platforms-in-2020/tree/main/notebooks)
-In addition the notebooks, there are three modules stores as .py files stored in this folder. They are necessary to run much of the analysis and process in the notebooks. 
+In addition the notebooks, there are four modules stores as .py files stored in this folder. They are necessary to run much of the analysis and process in the notebooks. 
 
 __You will need to install the following packages:__
 

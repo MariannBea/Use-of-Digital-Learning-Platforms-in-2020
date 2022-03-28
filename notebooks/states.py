@@ -171,7 +171,7 @@ class state_analysis():
         l = sns.lineplot(data = state_df_week, x = 'date', y = 'engagement_scaled') 
         calendar_df.plot(x='date', ax=l) 
 
-    def state_cloud(self, state_df, img = None, color = 'red', contour = '#b00e0e'):
+    def state_cloud(self, state_df, img = None, color = 'red', contour = '#b00e0e', title = None):
         ''' Create a word cloud showing top ten products based on 
             average engagement from top ten products for each district
 
@@ -204,8 +204,8 @@ class state_analysis():
         # show the word cloud
         plt.figure(figsize=(60,30))
         plt.imshow(cloud.recolor(color_func=random_color_func, random_state = 3), interpolation = 'bilinear')
-        state = self.state.title()
-        plt.title(f"Most Used Ed Tech in {state}", fontsize = 50, color = color)
+        if title != None:
+            plt.title(title, fontsize = 50, color = color)
         plt.axis('off')
         plt.show()
 
